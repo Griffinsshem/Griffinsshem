@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🚀 **Frontend Developer | Full-Stack Engineer in Training | Problem Solver**
+🚀 **Frontend Developer | Full-Stack Engineer | Problem Solver**
 
 I build modern, scalable web applications with **React, Next.js, and Flask**, transforming ideas into products that solve real-world problems.
 
