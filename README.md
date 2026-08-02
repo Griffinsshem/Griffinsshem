@@ -8,7 +8,7 @@ I build modern, scalable web applications with **React, Next.js, and Flask**, tr
 
 🌍 Nairobi, Kenya  
 📧 griffinsshem254@gmail.com  
-💼 Open to **Frontend Developer**, **React/Next.js Intern**, and **Software Engineering Internship** opportunities.
+💼 Open to **Frontend Developer**, **React/Next.js Intern**, and **Software Engineering** opportunities.
 
 </div>
 
